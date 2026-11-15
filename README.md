@@ -31,7 +31,7 @@
 <table width="100%">
   <tr>
     <td width="29%" align="center" valign="middle">
-      <img src="assets/erling_logo.svg" alt="Erling Football Club — project wordmark" width="240">
+      <img src="assets/erling_logo.png" alt="Erling Football Club — project wordmark" width="240">
     </td>
     <td width="71%" valign="top">
 <h3><code>erling</code> <sub>/ Unreal Engine portfolio prototype</sub></h3>
