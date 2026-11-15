@@ -8,13 +8,13 @@
 
 <h2><code>./projects</code></h2>
 
-<table>
+<table width="100%">
   <tr>
     <td width="29%" align="center" valign="middle">
       <img src="assets/utpp.png" alt="Ultimate Third Person Project — original project logo" width="240">
     </td>
     <td width="71%" valign="top">
-<h3>utpp <sub>/ Cyberpunk 2077 mod</sub></h3>
+<h3><code>utpp</code> <sub>/ Cyberpunk 2077 mod</sub></h3>
 
 <p>A third-person gameplay and animation framework for Cyberpunk 2077, combining Motion Matching locomotion, camera coordination, aiming, and combat.</p>
 
@@ -26,12 +26,15 @@
 <p><code>C++</code> <code>RED4ext</code> <code>redscript</code> &nbsp; <a href="https://github.com/danielmaciejpytel/uttp">Open repository →</a></p>
     </td>
   </tr>
+</table>
+
+<table width="100%">
   <tr>
     <td width="29%" align="center" valign="middle">
       <img src="assets/erling.svg" alt="Erling Football Club — project wordmark" width="240">
     </td>
     <td width="71%" valign="top">
-<h3>erling <sub>/ Unreal Engine portfolio prototype</sub></h3>
+<h3><code>erling</code> <sub>/ Unreal Engine portfolio prototype</sub></h3>
 
 <p>A stylized football playground and modular character creator built in Unreal Engine, with physics-based ball interactions, custom animation, and a layered facial-expression system.</p>
 
@@ -43,12 +46,15 @@
 <p><code>Unreal Engine</code> <code>C++</code> <code>UMG</code> &nbsp; <em>Private repository</em></p>
     </td>
   </tr>
+</table>
+
+<table width="100%">
   <tr>
     <td width="29%" align="center" valign="middle">
       <img src="assets/raven.png" alt="Raven: Skull Island — original project logo" width="240">
     </td>
     <td width="71%" valign="top">
-<h3>raven <sub>/ Skull Island</sub></h3>
+<h3><code>raven</code> <sub>/ Skull Island</sub></h3>
 
 <p>A third-person action-adventure set on a cursed pirate island. Originally a team graduation project where I was Lead Artist; now continued and modernized by me as a solo developer.</p>
 
