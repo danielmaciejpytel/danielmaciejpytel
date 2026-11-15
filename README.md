@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile_banner.svg" alt="Daniel Pytel — Game developer, digital artist, modder. Developer Terminal." width="100%">
+  <img src="assets/profile_banner.svg?background=151b23" alt="Daniel Pytel — Game developer, digital artist, modder. Developer Terminal." width="100%">
 </p>
 
 <p>I build games and gameplay systems, create digital art, and develop mods. My work brings together programming, animation, and visual design.</p>
