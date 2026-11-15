@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
 <title id="title">Daniel Pytel — Developer Terminal</title><desc id="desc">A terminal banner introducing Daniel Pytel as a game developer, digital artist and modder.</desc>
-<rect width="1200" height="310" rx="12" fill="#1b1d20"/><path d="M0 42H1200" stroke="#3b3e44"/>
+<rect width="1200" height="310" rx="12" fill="#151b23"/><path d="M0 42H1200" stroke="#3b3e44"/>
 <circle cx="24" cy="21" r="5" fill="#74787f"/><circle cx="43" cy="21" r="5" fill="#74787f"/><circle cx="62" cy="21" r="5" fill="#74787f"/>
 <text x="92" y="26" fill="#a2a6ad" font-family="Consolas,monospace" font-size="12">daniel@github: ~ / profile</text>
 <g font-family="Consolas,monospace"><text x="46" y="91" fill="#ff944f" font-size="17">$ whoami</text>
