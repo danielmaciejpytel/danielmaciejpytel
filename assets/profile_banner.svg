@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
+<title id="title">Daniel Pytel — Developer Terminal</title><desc id="desc">A terminal banner introducing Daniel Pytel as a game developer, digital artist and modder.</desc>
+<rect width="1200" height="310" rx="12" fill="#1b1d20"/><path d="M0 42H1200" stroke="#3b3e44"/>
+<circle cx="24" cy="21" r="5" fill="#74787f"/><circle cx="43" cy="21" r="5" fill="#74787f"/><circle cx="62" cy="21" r="5" fill="#74787f"/>
+<text x="92" y="26" fill="#a2a6ad" font-family="Consolas,monospace" font-size="12">daniel@github: ~ / profile</text>
+<g font-family="Consolas,monospace"><text x="46" y="91" fill="#ff944f" font-size="17">$ whoami</text>
+<text x="43" y="157" fill="#eceeef" font-size="53" font-weight="700">Daniel Pytel<tspan fill="#ff843b">_</tspan></text>
+<text x="46" y="203" fill="#b7bac0" font-size="19">Game developer. Digital artist. Modder.</text>
+<text x="46" y="264" fill="#92979f" font-size="14">&gt; gameplay / animation / interactive worlds</text>
+<text x="932" y="135" fill="#52565d" font-size="22">[ build ]</text><text x="932" y="172" fill="#898e96" font-size="22">[ create ]</text><text x="932" y="209" fill="#ff944f" font-size="22">[ play ]</text></g></svg>
