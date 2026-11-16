@@ -11,7 +11,7 @@
 <table width="100%">
   <tr>
     <td width="29%" align="center" valign="middle">
-      <img src="assets/utpp.png" alt="Ultimate Third Person Project — original project logo" width="240">
+      <a href="https://github.com/danielmaciejpytel/uttp"><img src="assets/utpp.png" alt="Ultimate Third Person Project — original project logo" width="240"></a>
     </td>
     <td width="71%" valign="top">
 <h3><code>utpp</code> <sub>/ Cyberpunk 2077 mod</sub></h3>
@@ -31,7 +31,7 @@
 <table width="100%">
   <tr>
     <td width="29%" align="center" valign="middle">
-      <img src="assets/erling_logo.png" alt="Erling Football Club — project wordmark" width="240">
+      <a href="https://github.com/danielmaciejpytel/erling"><img src="assets/erling_logo.png" alt="Erling Football Club — project wordmark" width="240"></a>
     </td>
     <td width="71%" valign="top">
 <h3><code>erling</code> <sub>/ Unreal Engine portfolio prototype</sub></h3>
@@ -43,7 +43,7 @@
   <li>Modular characters, animated layered faces, and UMG menus and HUD.</li>
 </ul>
 
-<p><code>Unreal Engine</code> <code>C++</code> <code>UMG</code> &nbsp; <em>Private repository</em></p>
+<p><code>Unreal Engine</code> <code>C++</code> <code>UMG</code> &nbsp; <a href="https://github.com/danielmaciejpytel/erling">Open repository →</a></p>
     </td>
   </tr>
 </table>
@@ -51,7 +51,7 @@
 <table width="100%">
   <tr>
     <td width="29%" align="center" valign="middle">
-      <img src="assets/raven_skull_island.png" alt="Raven: Skull Island — original project logo" width="240">
+      <a href="https://github.com/danielmaciejpytel/raven"><img src="assets/raven_skull_island.png" alt="Raven: Skull Island — original project logo" width="240"></a>
     </td>
     <td width="71%" valign="top">
 <h3><code>raven</code> <sub>/ Skull Island</sub></h3>
