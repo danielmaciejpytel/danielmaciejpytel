@@ -51,7 +51,7 @@
 <table width="100%">
   <tr>
     <td width="29%" align="center" valign="middle">
-      <img src="assets/raven_logo_en.png?image=a5fe1a3e" alt="Raven: Skull Island — original project logo" width="240">
+      <img src="assets/raven_skull_island.png" alt="Raven: Skull Island — original project logo" width="240">
     </td>
     <td width="71%" valign="top">
 <h3><code>raven</code> <sub>/ Skull Island</sub></h3>
